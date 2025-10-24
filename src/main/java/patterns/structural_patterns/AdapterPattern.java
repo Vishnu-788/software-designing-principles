@@ -1,4 +1,4 @@
-package patterns;
+package patterns.structural_patterns;
 
 class ClassicPlayer {
     public void playAudio(String text) {

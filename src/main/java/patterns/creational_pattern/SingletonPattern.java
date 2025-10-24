@@ -1,4 +1,4 @@
-package patterns;
+package patterns.creational_pattern;
 enum Connection {
     INSTANCE;
     public void connect(){

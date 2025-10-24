@@ -1,4 +1,4 @@
-package patterns;
+package patterns.structural_patterns;
 interface Image {
     public void display();
 }

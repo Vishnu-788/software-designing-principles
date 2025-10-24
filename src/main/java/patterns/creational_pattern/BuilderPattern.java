@@ -1,4 +1,4 @@
-package patterns;
+package patterns.creational_pattern;
 
 class BlogPost {
     public BlogPost(Builder builder) {
